@@ -7,3 +7,4 @@
 * Brave Heart
 * Game of Thrones
 * Moanna
+* Gladiator
